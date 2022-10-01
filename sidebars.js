@@ -544,6 +544,7 @@ const sidebars = {
     "samples/encrypted-notes",
     "samples/token-transfer",
     "samples/host-unity-webgl",
+    "samples/blogsite",
     "samples/hackathon-projects",
   ],
 };
